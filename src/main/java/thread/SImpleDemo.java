@@ -13,10 +13,6 @@ public class SImpleDemo {
                 System.out.println(i + "hahah");
             }
         }).start();
-<<<<<<< HEAD
-
-=======
->>>>>>> 2dd03dc... master上的一些提交
         System.out.println("main end----");
     }
 

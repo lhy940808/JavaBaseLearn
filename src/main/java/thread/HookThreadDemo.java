@@ -10,7 +10,7 @@ import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
 /**
- * ,防止某个程序被重复启动，在进程启动时会创建一个lock文件，进程收到中断信号的时候会删除这个文件
+ * ,防止某个程序被重复启动，在进程启动时会创建一个lock文件，进程收到中断信号的时候会删除这个文件git
  * @author liuhaiyan
  * @date 2019-11-25 20:40
  */
